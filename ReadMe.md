@@ -27,13 +27,7 @@ I am an **Computer Science** student with a passion for building full-stack appl
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Dapurtani** | An agricultural monitoring app for harvest tracking and plant care analysis. | Laravel, MySQL |
-| **MONIKA** | An employee performance monitoring system (Monitoring Kinerja Karyawan). | Laravel, Bootstrap |
-| **MERN Dashboard** | A full-stack management dashboard with JWT authentication. | React, Node.js, MongoDB |
-| **Enterprise Payroll** | A robust payroll management system built for scalability. | Java, Spring Boot |
-
+**SOON**
 ---
 
 ### 📊 GitHub Statistics
@@ -43,6 +37,6 @@ I am an **Computer Science** student with a passion for building full-stack appl
 ---
 
 ### 📫 Connect with Me
-
+**SOON**
 ---
 *"Logic will get you from A to B. Imagination will take you everywhere."*
